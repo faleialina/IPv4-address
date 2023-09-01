@@ -1,0 +1,22 @@
+.wrap {
+    background: #4B81A0;
+    display: flex;
+    width: 100vw;
+    height: 100vh;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 38px;
+}
+
+.wrap h1 {
+    color: #FFF;
+    font: 600 50px Montserrat;
+    text-transform: uppercase;
+}
+
+.wrap p {
+    color: #FFF;
+    font: 600 20px Montserrat;
+    text-transform: uppercase;
+}
